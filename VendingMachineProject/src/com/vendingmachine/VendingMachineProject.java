@@ -2,9 +2,14 @@ package com.vendingmachine;
 
 import java.util.Scanner;
 
-/**
- * Created by azegiest on 2/8/16.
- */
+/*
+Ashley Zegiestowsky
+CS451 Theory of Computation (Chen)
+February 5, 2016
+Description: Vending machine program that functions as a basic vending machine that takes in
+nickels, dimes, and quarters up to 30 cents to receive a candy bar. The program structure is
+modeled after the deterministic finite automata diagram given in class.
+*/
 public class VendingMachineProject {
 
     //state variables
